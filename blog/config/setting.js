@@ -1,6 +1,6 @@
 var setting = {
     cookieSecret: 'myBlog',
-    host: '127.0.0.1',
+    host: 'localhost',
     port: '27017',
     dbName: 'blog'
 };
